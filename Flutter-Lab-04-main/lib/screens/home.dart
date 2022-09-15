@@ -10,8 +10,8 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  List<String> dropItems = ['Osama', 'Ahmad', 'Yamen'];
-  String selectedValue = 'Osama';
+  List<String> dropItems = ['mohanad', 'hisham', 'mohammed'];
+  String selectedValue = 'mohanad';
 
   @override
   Widget build(BuildContext context) {
